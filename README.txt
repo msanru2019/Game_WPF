@@ -95,7 +95,7 @@ ________________________________________________________________________________
 4) GENERAL INFORMATION
 ------------------------
 
-DiectX: 
+DirectX: 
 Mike-Squad requires Microsoft DirectX 9.0 to run. For the game to run properly.
 
 Running ApplicationS:
